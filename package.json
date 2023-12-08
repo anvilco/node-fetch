@@ -1,5 +1,5 @@
 {
-  "name": "node-fetch",
+  "name": "@anvilco/node-fetch",
   "version": "3.3.3-beta.0",
   "description": "A light-weight module that brings Fetch API to node.js",
   "main": "./src/index.js",
